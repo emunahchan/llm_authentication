@@ -1,4 +1,4 @@
-# LLM authentication
+# LLM-assisted authentication
 LLM-assisted Authentication Demo
 
 This is the demo code to show how an LLM (Llama-3.3 on Huggingface) can be used in user authentication not requiring exact match. The "what you know" factor like passwords and securit questions requires exact, word for word match of answers for authentication. But this does not align with human communication, which is approxiate and semnatic in nature. This demo explores how the semantic reasoning ability of LLMs can be used to implement a novel "what you know" authentication factor without requiring exact, word-for-word matches.
